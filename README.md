@@ -22,7 +22,7 @@ The code was developed with Python 3.10.4 and the following libraries and versio
 - skimage==0.21.0
 - sklearn==1.3.0
 - torch==2.0.1+cu117
-- torchvision==0.15.2+cu117'
+- torchvision==0.15.2+cu117
 - wandb==0.15.9
 
 You will need a [Weights and Biases](https://wandb.ai/site) account.
