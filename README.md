@@ -3,7 +3,7 @@
 week 3 assignment for DTSA5511
 
 <!-- ABOUT THE PROJECT -->
-## About The Assignment
+## About the assignment
 This project applies convolutional networks to classify whether metastatic cancer is present in a histological slide. It's the Kaggle task [Histopathologic Cancer Detection](https://www.kaggle.com/competitions/histopathologic-cancer-detection/overview).
 
 It was done for CU Boulder's DTSA5511 Introduction to Deep Learning.
